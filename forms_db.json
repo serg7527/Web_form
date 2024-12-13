@@ -1,0 +1,11 @@
+[
+  {
+    "name": "Example Form",
+    "fields": {
+      "field_name_1": "email",
+      "field_name_2": "phone",
+      "field_name_3": "date",
+      "field_name_4": "text"
+    }
+  }
+]
